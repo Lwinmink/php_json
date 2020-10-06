@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Lwin",
+        "email": "lwinmin665@gmail.com",
+        "gender": "Male",
+        "address": "Yangon",
+        "profile": "photo\/jojo-pose-2.png"
+    },
+    {
+        "name": "Test1",
+        "email": "test1@gmail.com",
+        "gender": "Female",
+        "address": "Yangon",
+        "profile": "photo\/floral-design-13.jpg"
+    }
+]
